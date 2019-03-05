@@ -11,7 +11,8 @@
   },
   "scripts": {
     "update": "npm-check -u",
-    "lint": "eslint --ext .js bin lib"
+    "lint": "eslint --ext .js bin lib",
+    "publish": "npm publish"
   },
   "author": "kitemao@gmail.com",
   "license": "ISC",
