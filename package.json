@@ -1,6 +1,6 @@
 {
   "name": "@jam/cli",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "keywords": [
     "webpack",
     "react"
@@ -11,8 +11,7 @@
   },
   "scripts": {
     "update": "npm-check -u",
-    "lint": "eslint --ext .js bin lib",
-    "publish": "npm publish"
+    "lint": "eslint --ext .js bin lib"
   },
   "author": "kitemao@gmail.com",
   "license": "ISC",

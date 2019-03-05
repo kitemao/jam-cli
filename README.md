@@ -8,4 +8,4 @@ npm i @jam/cli -g
 
 ### 使用
 
-jam-cli create
+jam create app-name
