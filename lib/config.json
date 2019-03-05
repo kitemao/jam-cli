@@ -1,0 +1,7 @@
+{
+    "create-es6-app": {
+        "type": "repo",
+        "desc": "pure es6 app",
+        "path": "github:kitemao/create-es6-app" 
+    }
+}
