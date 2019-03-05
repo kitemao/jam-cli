@@ -1,11 +1,14 @@
 {
   "name": "@jam/cli",
   "version": "0.0.1",
-  "description": "a cli tool",
+  "keywords": [
+    "webpack",
+    "react"
+  ],
+  "description": "a frontend boilerplates",
   "bin": {
     "jam": "bin/jam.js"
   },
-  "main": "index.js",
   "scripts": {
     "update": "npm-check -u",
     "lint": "eslint --ext .js bin lib"

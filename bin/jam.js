@@ -36,7 +36,7 @@ program
                 {
                     name: 'preset',
                     type: 'list',
-                    message: 'Please pick an preset: ',
+                    message: 'Please pick a preset: ',
                     choices: Object.keys(config).map(key => {
                         return {
                             name: key,
